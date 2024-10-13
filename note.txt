@@ -1,0 +1,2 @@
+yarn init -y :tạo package.json nhanh k hỏi
+yarn add typescript -D:cài typescripts vào 
